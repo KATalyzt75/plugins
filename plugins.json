@@ -62,5 +62,53 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "Kitsch",
+    "name": "Object Hider",
+    "description": "Hides game objects by ID with certain presets to increase performance.",
+    "id": "objecthider-plugin",
+    "releases": [
+      {
+        "date": "2022-01-21",
+        "sha512sum": "D49575C54C37BA90C81CFBE160B59E5A4C0E5B9B5ABDD2737741F884DF58555CDE242F4B433CDE9F4B048370207FB232A98401FF73CD08C0C687B068B89E55A8",
+        "version": "0.0.4",
+        "url": "https://github.com/Magnusrn/Plugins/blob/master/release/objecthider-0.0.4.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "Kitsch",
+    "name": "One Click Bloods",
+    "description": "One click bloods",
+    "id": "oneclickbloods-plugin",
+    "releases": [
+      {
+        "date": "2022-01-21",
+        "sha512sum": "E1AE293482F53BB25327405631F84DB20180143202C7C71641983D87A8A353836D67E7E16622781DAE62607D984D12802018A469E61C46BA802DDA279543118E",
+        "version": "0.0.3",
+        "url": "https://github.com/Magnusrn/Plugins/blob/master/release/oneclickbloods-0.0.3.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "",
+    "provider": "Kitsch",
+    "name": "One Click Custom",
+    "description": "Custom one click by ID for gameObject/NPC/Ground items/Fishing spots",
+    "id": "oneclickcustom-plugin",
+    "releases": [
+      {
+        "date": "2022-01-21",
+        "sha512sum": "62108B952326A980A97F9FC26839376EF1E61A140563629618118538072F645C17AFD54676C76E4D280655EF96D71CFC2E77B248869FA1EE15B3B2F9D8C8C572",
+        "version": "0.1.0",
+        "url": "https://github.com/Magnusrn/Plugins/blob/master/release/oneclickcustom-0.1.0.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
