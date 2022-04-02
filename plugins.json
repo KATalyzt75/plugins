@@ -64,9 +64,9 @@
 },
 {
 "date": "2022-01-20",
-"sha512sum": "3BF1572EA89F9F9149302C0B9D4ED26DEF1FEF6D28EBA92EC59E82AA162E9BC63171136EF82C802BD883496ED115DE80B951658771CF51B487518A39CA2AC4F5",
+"sha512sum": "33BF1572EA89F9F9149302C0B9D4ED26DEF1FEF6D28EBA92EC59E82AA162E9BC63171136EF82C802BD883496ED115DE80B951658771CF51B487518A39CA2AC4F5",
 "version": "5.1.0",
-"url": "ttps://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.1.0.jar?raw=true",
+"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.1.0.jar?raw=true",
 "requires": "^1.0.0"
 }
 ]
