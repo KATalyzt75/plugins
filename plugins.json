@@ -7,7 +7,7 @@
     "id": "prueba-plugin",
     "releases": [
       {
-        "date": "alguna fecha",
+        "date": "2022-01-01",
         "sha512sum": "N0HAY",
         "version": "0.0.0",
         "url": "https://github.com/KATalyzt75/PluginsQueUso/blob/main/release/oneclickthieving-1.0.13.jar",
