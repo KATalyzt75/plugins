@@ -7,66 +7,10 @@
 "id": "alchemicalhydra-plugin",
 "releases": [
 {
-"date": "2021-02-27",
-"sha512sum": "D1EA61C7527C857F5EEFF5776466E50DFD3B0AEBA17F42BC3C77B822C431CC265CAF53A02D76BCA9084E325A9249C3915ABE44199FA4BBE049B092DAA43142D8",
-"version": "5.0.0",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.0.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-04-06",
-"sha512sum": "9C593E1EB4CFFC35033A4DC8387E402F3F73EFE0887A2904FF1528F0994FA87147235F45F517EB2DF2A7C080A2443B99EFB6768DF587CD340A708D8FDCEA8DD7",
-"version": "5.0.1",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.1.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-06-08",
-"sha512sum": "BFE84C3D4055C4A03818150B08CB75253D138CD4567BF4997FA56870A4DD6E5D7E0BA41DA676B71F7A0EB76AD12BD402CD7C6E4B1B8FE3037A7A28C11415D65D",
-"version": "5.0.2",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.2.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-09-29",
-"sha512sum": "85E00B3A9F2B77C2CE98C8D8AB1AE0B76D55EBC9FE70F318A953D776086459B5C12F78BCB703695FD102918AF2E74D64C4BF06B1E7A91E82C9B402DDB0AFF6E4",
-"version": "5.0.3",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.3.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-09-29",
-"sha512sum": "F43EC0EE07F68C64C0330F2755E0DDFC1E267FF4D61C146E37AEDF4A9B86473E2541CDB1C28254069F26E97014C49D308D513517598502581EFD051504F20CC9",
-"version": "5.0.4",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.4.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-10-06",
-"sha512sum": "35A83638198ED38A0E1D3FC6811D1F7DBBC08EFFF747A188A565A74A0DEACF4FFB3ACB2303057EEC6D973888184CE7B516BB970AA5B316AF958DD3A63EAC68C6",
-"version": "5.0.5",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.5.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-12-16",
-"sha512sum": "7225EAA969BC802475DE13BBA93EB74D99665CCF950C9011EEB970BBF453899DDDDBE16D14F6E3B18DDEC3898ACEA9C091906AB2BCE394FD2F0352CA551807B1",
-"version": "5.0.6",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.6.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
-"date": "2021-12-26",
-"sha512sum": "7C7AFAE9738DDBD4B359753AFFA89FBECDBA1AE24F04DC954CB771264F3E0A15334397CE0A49760C9E1F1D506D5E3E66749BC83493E0C2ADBEA328B696C1CE3C",
-"version": "5.0.7",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.0.7.jar?raw=true",
-"requires": "^1.0.0"
-},
-{
 "date": "2022-01-20",
-"sha512sum": "33BF1572EA89F9F9149302C0B9D4ED26DEF1FEF6D28EBA92EC59E82AA162E9BC63171136EF82C802BD883496ED115DE80B951658771CF51B487518A39CA2AC4F5",
+"sha512sum": "A",
 "version": "5.1.0",
-"url": "https://github.com/xKylee/plugins-release/blob/master/release/alchemicalhydra-5.1.0.jar?raw=true",
+"url": "A",
 "requires": "^1.0.0"
 }
 ]
