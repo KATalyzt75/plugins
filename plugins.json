@@ -1,16 +1,64 @@
 [
   {
-    "projectUrl": "Sin url",
-    "provider": "SeñorPrueba",
-    "name": "Nombre del plugin",
-    "description": "Un plugin de prueba",
-    "id": "prueba-plugin",
+    "projectUrl": "https://github.com/Sundar-Gandu/Pajeet-Plugins",
+    "provider": "Sundar",
+    "name": "One Click Agility",
+    "description": "Reclined gaming",
+    "id": "oneclickagility-plugin",
     "releases": [
       {
-        "date": "2022-01-01",
-        "sha512sum": "de52ce940c1fa843b86a58af62824fcaa9fd8d6e68a201d3e132adee3c069972040838dcd83046caf141a8ff3fe630be8627f5f748c80267d0c2f349175a3159",
-        "version": "0.0.0",
-        "url": "https://github.com/KATalyzt75/PluginsQueUso/blob/main/release/reflection-1.0.7.jar?raw=true",
+        "date": "2022-03-31",
+        "sha512sum": "EA1A7AEF5457CD38B109D52DFB061EEB60ECE55F45B522477679A5FB7491CEAAFA29112E56FBD09417A5D5AF7C93FD5432DAE648AD49CB0517B9746A65FD9FBA",
+        "version": "1.1.18",
+        "url": "https://github.com/Sundar-Gandu/Pajeet-Plugins/blob/master/release/oneclickagility-1.1.18.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://github.com/Sundar-Gandu/Pajeet-Plugins",
+    "provider": "Sundar",
+    "name": "One Click Pickpocket",
+    "description": "QOL for pickpocketing",
+    "id": "oneclickpickpocket-plugin",
+    "releases": [
+      {
+        "date": "2022-03-31",
+        "sha512sum": "6187817F054F838EAC1105E6B2157772FC8552F32180D10A59747675DC046AEB3EF9D1C0BEF1B917A7B9CC16D8217412CD1D2334C0DBCB52FE367F654A9CD0C6",
+        "version": "1.0.13",
+        "url": "https://github.com/Sundar-Gandu/Pajeet-Plugins/blob/master/release/oneclickthieving-1.0.13.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://github.com/Sundar-Gandu/Pajeet-Plugins",
+    "provider": "Sundar",
+    "name": "One Click 3T Fish",
+    "description": "3 tick fishing made easy",
+    "id": "oneclicktfish-plugin",
+    "releases": [
+      {
+        "date": "2022-03-31",
+        "sha512sum": "B585EA95D5ED9DD557373A2430A0B96470AA95DF5509974790A401C977AF0BF76F65FE4948B25002A7D9A9EE71D45F0C0982813AB2801C2D3D12C0620214E504",
+        "version": "1.0.5",
+        "url": "https://github.com/Sundar-Gandu/Pajeet-Plugins/blob/master/release/oneclick3tfish-1.0.5.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://github.com/Sundar-Gandu/Pajeet-Plugins",
+    "provider": "Sundar",
+    "name": "reflection",
+    "description": "Change the apearance of the client ui",
+    "id": "reflection-plugin",
+    "releases": [
+      {
+        "date": "2022-03-31",
+        "sha512sum": "DE52CE940C1FA843B86A58AF62824FCAA9FD8D6E68A201D3E132ADEE3C069972040838DCD83046CAF141A8FF3FE630BE8627F5F748C80267D0C2F349175A3159",
+        "version": "1.0.7",
+        "url": "https://github.com/Sundar-Gandu/Pajeet-Plugins/blob/master/release/reflection-1.0.7.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
