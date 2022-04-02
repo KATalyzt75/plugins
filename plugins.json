@@ -1,0 +1,18 @@
+[
+  {
+    "projectUrl": "Sin url",
+    "provider": "SeñorPrueba",
+    "name": "Nombre del plugin",
+    "description": "Un plugin de prueba",
+    "id": "prueba-plugin",
+    "releases": [
+      {
+        "date": "alguna fecha",
+        "sha512sum": "N0HAY",
+        "version": "0.0.0",
+        "url": "nose",
+        "requires": "^1.0.0"
+      }
+    ]
+  }
+]
