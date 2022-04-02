@@ -110,5 +110,101 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://discord.gg/mgXhVDUEUq",
+    "provider": "xKylee",
+    "name": "Entity Hider Extended",
+    "description": "Hide dead NPCs animations",
+    "id": "entityhiderextended-plugin",
+    "releases": [
+      {
+        "date": "2021-12-16",
+        "sha512sum": "507F39461FB2097016A70E5CC37950D8A0338DF7A79956F27107E81070BBC68F07AAC0232DF75305E300C8601DB78838752DD154D3E3BA3295B9031316992766",
+        "version": "5.0.6",
+        "url": "https://github.com/xKylee/plugins-release/blob/master/release/entityhiderextended-5.0.6.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/mgXhVDUEUq",
+    "provider": "xKylee",
+    "name": "Hotkey To Walk",
+    "description": "Use Hotkey to toggle the Walk Here menu option. While pressed you will Walk rather than interact with objects.",
+    "id": "hotkeytowalk-plugin",
+    "releases": [
+      {
+        "date": "2021-12-16",
+        "sha512sum": "1EB196F6BABD2BE85BFB1374D3F2DB5A5869A2CF829D90B9151B014780B83F034D9A34879FC146E214D9E1E4B5F6B4EC569FF4AC94D3184E39DCB01DCFD124EF",
+        "version": "5.1.1",
+        "url": "https://github.com/xKylee/plugins-release/blob/master/release/hotkeytowalk-5.1.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discord.gg/mgXhVDUEUq",
+    "provider": "xKylee",
+    "name": "Menu Entry Swapper Extended",
+    "description": "Change the default option that is displayed when hovering over objects",
+    "id": "menuentryswapperextended-plugin",
+    "releases": [
+      {
+        "date": "2022-03-26",
+        "sha512sum": "5477407FE1BDD2F6DC306C20E39F0BB9B2E88282E91F5328FA9CFE6057783CDFF94543EB2079EDC5F894CBAA2DF57E2DE8619C07D4658283B5A9640ABAEBF70B",
+        "version": "5.4.1",
+        "url": "https://github.com/xKylee/plugins-release/blob/master/release/menuentryswapperextended-5.4.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discordapp.com/invite/gsoft",
+    "provider": "Ganom",
+    "name": "ExtUtils",
+    "description": "Utils required for plugins to function.",
+    "id": "extutils-plugin",
+    "releases": [
+      {
+        "date": "2021-07-29",
+        "sha512sum": "2094EA6387FF4C8F9D4289395E9F8543D68AA967FAC73686AF3BA9E70302EEF347BAC07D068B9CE22B3AAFF08ED3CFA9326BE7B2CA6B4ED57BD424C4ED579CF4",
+        "version": "6.1.1",
+        "url": "https://github.com/Ganom/ExternalPlugins/blob/master/release/ExtUtils-6.1.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discordapp.com/invite/gsoft",
+    "provider": "Ganom",
+    "name": "NeverLog",
+    "description": "This makes it so you'll never logout during the 6h period.",
+    "id": "neverlog-plugin",
+    "releases": [
+      {
+        "date": "2021-07-29",
+        "sha512sum": "CAE073783A49A1A25A547C37C88379FEE981F697D66D74FF1766E18FF00EB9406BB24BDA51BBB4E60722FCA87D3A296317F2974899C902E19B9415EBEF728484",
+        "version": "6.1.2",
+        "url": "https://github.com/Ganom/ExternalPlugins/blob/master/release/NeverLog-6.1.2.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://discordapp.com/invite/gsoft",
+    "provider": "Ganom",
+    "name": "OneClick",
+    "description": "OP One Click methods.",
+    "id": "oneclick-plugin",
+    "releases": [
+      {
+        "date": "2022-02-10",
+        "sha512sum": "EE808222CB08CB5CD2894A9E1EEDED7CEEC7F4CF1009E1F5B274F32BB9946BB5313FF8DB050ED27A90B2C2F5B50AFEFA823BC54D07A258639B03C6A8939CBAC8",
+        "version": "7.1.1",
+        "url": "https://github.com/Ganom/ExternalPlugins/blob/master/release/OneClick-7.1.1.jar?raw=true",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
