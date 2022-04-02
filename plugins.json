@@ -8,9 +8,9 @@
     "releases": [
       {
         "date": "2022-01-01",
-        "sha512sum": "N0HAY",
+        "sha512sum": "de52ce940c1fa843b86a58af62824fcaa9fd8d6e68a201d3e132adee3c069972040838dcd83046caf141a8ff3fe630be8627f5f748c80267d0c2f349175a3159",
         "version": "0.0.0",
-        "url": "https://github.com/KATalyzt75/PluginsQueUso/blob/main/release/oneclickthieving-1.0.13.jar?raw=true",
+        "url": "https://github.com/KATalyzt75/PluginsQueUso/blob/main/release/reflection-1.0.7.jar?raw=true",
         "requires": "^1.0.0"
       }
     ]
